@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/bwUawq9.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/zFfyC6D.png">
   <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/YlYiOSj.png">
-  <img alt="Playlist Banner Logo" src="https://i.imgur.com/bwUawq9.png" width="500">
+  <img alt="Playlist Banner Logo" src="https://i.imgur.com/zFfyC6D.png" width="500">
 </picture>
 
 **Take control of Minecraft's in-game music - An in-game media player that allows you to create playlists, skip songs, create queues, edit song play conditions, and much more**
