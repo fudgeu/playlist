@@ -49,8 +49,7 @@ Source code upload is coming soon - I will upload once the mod reaches a stable 
 
 # Other Info
 
-- Currently available for Fabric on 1.18.1 and 1.19, requires the Fabric API
-- Each version will have their respective new songs and default song play conditions
+- Currently available for Fabric on 1.19, requires the Fabric API
 - Before anyone asks, a Forge version will be considered if enough interest is shown
 - I will try to push out updates as much as possible, but I do have my job and soon, school again - but try to expect bug patches around twice a week while the mod is in alpha
 - A wiki and FAQ will be added soon enough, though for now, I'll do my best to answer any questions
