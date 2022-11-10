@@ -4,54 +4,49 @@
   <img alt="Playlist Banner Logo" src="https://i.imgur.com/zFfyC6D.png" width="500">
 </picture>
 
+
 **Take control of Minecraft's in-game music - An in-game media player that allows you to create playlists, skip songs, create queues, edit song play conditions, and much more**
+
+This mod is in beta! Please [report any bugs](https://github.com/fudgeu/playlist/issues) - it helps a lot!
 
 ![](https://camo.githubusercontent.com/4d5c8b2292836d17ec3fbfc949d01f8e1c981ddc8f45430422d80212b49ab73b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6f642532306c6f616465722d6661627269632d6436343534313f7374796c653d666c61742d737175617265) 
 ![](https://img.shields.io/badge/environment-client-1976d2?style=flat-square)
 
-### This mod is in early alpha! It will be buggy - please [report bugs!](https://github.com/fudgeu/playlist/issues)
-Source code upload is coming soon - I will upload once the mod reaches a stable release, and when I have cleaned up the code to be more consistent (woops lol)
+### Download from [Modrinth](https://modrinth.com/mod/playlist) or [CurseForge](https://www.curseforge.com/minecraft/mc-mods/playlist)
+
+---
+
+<img src="https://i.imgur.com/qYOkxbJ.jpeg" width="75%">
+
+_More screenshots available at Modrinth or CurseForge_
 
 # Feature Overview
-- Play any in-game song at any time (excluding records)
-- Create playlists of songs, all customizable to how you want your music to play
+- Play any in-game song at any time _(excluding records, for now)_
+- Create playlists with many customization options
 - Stop, skip, or go back to songs
 - Create queues of songs to play
 - Customize how often songs play (or don't play)
-- Customize which songs play where and when
-
-# Screenshots
-<img src="https://i.imgur.com/BP7SeJr.png" width="75%">
-<details>
-  <summary>More screenshots</summary>
-  <br/>
-  <img src="https://i.imgur.com/37E4NyP.png" width="75%">
-  <img src="https://i.imgur.com/HRsEnlj.png" width="75%">
-  <img src="https://i.imgur.com/w65g5IE.png" width="75%">
-  <img src="https://i.imgur.com/diP18QP.png" width="75%">
-</details>
+- Customize which songs play where and when based on environmental or player conditions
+- Control volume right from the menu
+- And more!
 
 # You Should Know
-- This mod is in very early **alpha - it will be buggy, and I need your help finding bugs**
 - The default key bind to open the menu is **G**
-- This mod works by replacing Minecraft's entire music logic. I have tried my best to emulate it's original functionality as much as possible, and by default, you shouldn't even be able to tell this mod is installed. Replacing the music logic allows for complete control over how, which, and when music plays, and allows for even more customizability features to be added in the future.
-- However, because of this, it is very likely that this will break mods that add their own music. I am working on a way retain this ability without other developers needing to do much. For now, though, if other mods' music are broken due to this mod, this is expected, but please still report it.
-- Modpack developers - **you may add this mod to your modpack** without asking - **though I advice against it for now**, since this mod is in it's early alpha stages.
+- This mod is still in beta - it should mostly be stable, though I fully expect minor bugs to still exist. Please report them so that I may squash them!
+- Modpack developers - **you may add this mod to your modpack** without asking - though please keep in mind that this mod is in beta and will likely interfere with other mods that add music to the game!
 
-# Todo
-- Allow bulk editing/deleting/adding to make managing and customizing songs easier
-- Add a Rocket League style quick menu for basic music control
-- Work on mod compatibility
-- Work on a survival-friendly mode that requires you 'unlock' songs before you can play them
-- Integrate records (goes along with survival-friendly mode, thinking of making a non-client sided addon that allows for this)
-- Optimize UI for larger scales and smaller monitors
-- Ability to add custom songs
+<details>
+<summary>Other info</summary>
 
-# Other Info
+• Before anyone asks, a Forge version will be considered if enough interest is shown
 
-- Currently available for Fabric on 1.19, requires the Fabric API
-- Before anyone asks, a Forge version will be considered if enough interest is shown
-- I will try to push out updates as much as possible, but I do have my job and soon, school again - but try to expect bug patches around twice a week while the mod is in alpha
-- A wiki and FAQ will be added soon enough, though for now, I'll do my best to answer any questions
+• This mod works by replacing Minecraft's entire music logic. This allows for complete control over how, when, and what music plays. However, this breaks the ability for other mods to add music to the game. This will be fixed in the future, but please do still report any mods that this mod breaks!
+
+• I will try to push out updates as much as possible, forgive me if I'm a little slow! I've got quite a bit goin' on
+
+</details>
+
+Currently available for Fabric and Quilt on 1.19.2, requires the Fabric API (or QFAPI for Quilt)
+Feel free to ask any questions in the GitHub if you are unsure about something in the mod!
 
 **Enjoy!**
