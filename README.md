@@ -46,7 +46,7 @@ _More screenshots available at Modrinth or CurseForge_
 
 </details>
 
-Currently available for Fabric and Quilt on 1.19.2, requires the Fabric API (or QFAPI for Quilt)
+Currently available for Fabric and Quilt on 1.19.3, requires the Fabric API (or QFAPI for Quilt)
 Feel free to ask any questions in the GitHub if you are unsure about something in the mod!
 
 **Enjoy!**
