@@ -12,6 +12,10 @@ This mod is in beta! Please [report any bugs](https://github.com/fudgeu/playlist
 ![](https://camo.githubusercontent.com/4d5c8b2292836d17ec3fbfc949d01f8e1c981ddc8f45430422d80212b49ab73b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6f642532306c6f616465722d6661627269632d6436343534313f7374796c653d666c61742d737175617265) 
 ![](https://img.shields.io/badge/environment-client-1976d2?style=flat-square)
 
+Support me on Kofi so I can keep developing this mod :)
+
+<a href='https://ko-fi.com/E1E0D7RGH' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 ### Download from [Modrinth](https://modrinth.com/mod/playlist) or [CurseForge](https://www.curseforge.com/minecraft/mc-mods/playlist)
 
 ---
