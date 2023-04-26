@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/zFfyC6D.png">
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/YlYiOSj.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/aAuZYSP.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/z0mFwrh.png">
   <img alt="Playlist Banner Logo" src="https://i.imgur.com/zFfyC6D.png" width="500">
 </picture>
 
@@ -31,7 +31,7 @@ _More screenshots available at Modrinth or CurseForge_
 - Create queues of songs to play
 - Customize how often songs play (or don't play)
 - Customize which songs play where and when based on environmental or player conditions
-- Control volume right from the menu
+- Control volume right from the menu and with keybinds
 - And more!
 
 # You Should Know
@@ -50,7 +50,7 @@ _More screenshots available at Modrinth or CurseForge_
 
 </details>
 
-Currently available for Fabric and Quilt on 1.19.3, requires the Fabric API (or QFAPI for Quilt)
+Currently available for Fabric on 1.19.2 - 1.19.4, and requires the Fabric API
 Feel free to ask any questions in the GitHub if you are unsure about something in the mod!
 
 **Enjoy!**
