@@ -50,7 +50,7 @@ _More screenshots available at Modrinth or CurseForge_
 
 </details>
 
-Currently available for Fabric on 1.19.2 - 1.19.4, and requires the Fabric API
+Currently available for Fabric, with the latest version supported being 1.20.1, and requires the Fabric API
 Feel free to ask any questions in the GitHub if you are unsure about something in the mod!
 
 **Enjoy!**
