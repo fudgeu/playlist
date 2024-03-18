@@ -4,6 +4,14 @@
   <img alt="Playlist Banner Logo" src="https://i.imgur.com/zFfyC6D.png" width="500">
 </picture>
 
+## Update:
+I am currently working on a full re-write for this mod. Maintaining this mod in it's current state is a bit difficult, as it was my first ever Minecraft mod and I have learnt a lot since then. A lot of work has been going into a custom UI library (that will be available as it's own library mod). I'm glad to report that it's mostly done, and is genuinely a really cool tool to work with. UI has been one of the pain points with Playlist, since the mod is so UI-heavy. Playlist 2.0 will see a completetly new UI, built-in support for custom songs, and will also contain features that may help modpack developers (since it's a surprsingly large use case!).
+
+As such, I am no longer addressing any of the current issues, since the new mod will be a clean slate anyway.
+
+Additionally, I also fully plan on open sourcing Playlist 2.0, creating a wiki here, and recording a video tutorial series to help people learn how to use all the features in Playlist :)
+
+---
 
 **Take control of Minecraft's in-game music - An in-game media player that allows you to create playlists, skip songs, create queues, edit song play conditions, and much more**
 
